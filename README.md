@@ -6,3 +6,4 @@ My personal solutions to programming challenges I come across.
 - [Telephone Words](telephoneWords.js)
 - [Balanced Parenthesis](balancedParenthesis.js)
 - [Numbers to English](numsToEnglish.js)
+- [Character Frequency](characterFrequency.js)
