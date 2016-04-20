@@ -5,3 +5,4 @@ My personal solutions to programming challenges I come across.
 - [Rock Paper Permutation](rockpaper.js)
 - [Telephone Words](telephoneWords.js)
 - [Balanced Parenthesis](balancedParenthesis.js)
+- [Numbers to English](numsToEnglish.js)
