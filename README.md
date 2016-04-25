@@ -7,3 +7,4 @@ My personal solutions to programming challenges I come across.
 - [Balanced Parenthesis](balancedParenthesis.js)
 - [Numbers to English](numsToEnglish.js)
 - [Character Frequency](characterFrequency.js)
+- [Power Set](powerSet.js)
