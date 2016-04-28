@@ -8,3 +8,4 @@ My personal solutions to programming challenges I come across.
 - [Numbers to English](numsToEnglish.js)
 - [Character Frequency](characterFrequency.js)
 - [Power Set](powerSet.js)
+- [All Anagrams](allAnagrams.js)
