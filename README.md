@@ -10,3 +10,4 @@ My personal solutions to programming challenges I come across.
 - [Power Set](powerSet.js)
 - [All Anagrams](allAnagrams.js)
 - [Fraction Converter](fractionConverter.js)
+- [Async Map](asyncMap.js)
