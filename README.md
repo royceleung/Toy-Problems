@@ -11,3 +11,4 @@ My personal solutions to programming challenges I come across.
 - [All Anagrams](allAnagrams.js)
 - [Fraction Converter](fractionConverter.js)
 - [Async Map](asyncMap.js)
+- [Binary Search Array](binarySearchArray.js)
