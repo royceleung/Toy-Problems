@@ -12,3 +12,4 @@ My personal solutions to programming challenges I come across.
 - [Fraction Converter](fractionConverter.js)
 - [Async Map](asyncMap.js)
 - [Binary Search Array](binarySearchArray.js)
+- [Spiral Traversal](spiralTraversal.js)
