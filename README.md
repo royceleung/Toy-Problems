@@ -13,3 +13,4 @@ My personal solutions to programming challenges I come across.
 - [Async Map](asyncMap.js)
 - [Binary Search Array](binarySearchArray.js)
 - [Spiral Traversal](spiralTraversal.js)
+- [Prime Tester](primeTester.js)
