@@ -14,3 +14,4 @@ My personal solutions to programming challenges I come across.
 - [Binary Search Array](binarySearchArray.js)
 - [Spiral Traversal](spiralTraversal.js)
 - [Prime Tester](primeTester.js)
+- [Event Occurrence](eventOccurrence.js)
