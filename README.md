@@ -15,3 +15,4 @@ My personal solutions to programming challenges I come across.
 - [Spiral Traversal](spiralTraversal.js)
 - [Prime Tester](primeTester.js)
 - [Event Occurrence](eventOccurrence.js)
+- [Deep Equality](deepEquality.js)
