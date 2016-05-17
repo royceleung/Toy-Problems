@@ -16,3 +16,4 @@ My personal solutions to programming challenges I come across.
 - [Prime Tester](primeTester.js)
 - [Event Occurrence](eventOccurrence.js)
 - [Deep Equality](deepEquality.js)
+- [Tree Count Leaves](treeCountLeaves.js)
