@@ -17,3 +17,4 @@ My personal solutions to programming challenges I come across.
 - [Event Occurrence](eventOccurrence.js)
 - [Deep Equality](deepEquality.js)
 - [Tree Count Leaves](treeCountLeaves.js)
+- [Insertion Sort](insertionSort.js)
