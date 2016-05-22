@@ -18,3 +18,4 @@ My personal solutions to programming challenges I come across.
 - [Deep Equality](deepEquality.js)
 - [Tree Count Leaves](treeCountLeaves.js)
 - [Insertion Sort](insertionSort.js)
+- [Sum Array](sumArray.js)
