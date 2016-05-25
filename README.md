@@ -19,3 +19,4 @@ My personal solutions to programming challenges I come across.
 - [Tree Count Leaves](treeCountLeaves.js)
 - [Insertion Sort](insertionSort.js)
 - [Sum Array](sumArray.js)
+- [Stopwatch](stopWatch.js)
