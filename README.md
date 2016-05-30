@@ -20,3 +20,4 @@ My personal solutions to programming challenges I come across.
 - [Insertion Sort](insertionSort.js)
 - [Sum Array](sumArray.js)
 - [Stopwatch](stopWatch.js)
+- [Range Class](rangeClass.js)
