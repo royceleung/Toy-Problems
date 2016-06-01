@@ -21,3 +21,4 @@ My personal solutions to programming challenges I come across.
 - [Sum Array](sumArray.js)
 - [Stopwatch](stopWatch.js)
 - [Range Class](rangeClass.js)
+- [Roman Numeral Translator](romanNumeralTranslator.js)
